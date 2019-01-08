@@ -1,0 +1,41 @@
+
+
+
+.error {
+ border: 3px solid black;
+ background: #701328;
+
+
+  }
+
+.bord{
+	border: 6px solid #701328;
+
+}
+
+textarea .pooo : focus {
+
+    background-color: yellow;
+    background-image: pooo
+
+}
+
+article {
+	
+	 border: 5px solid #701328;
+	 border-radius: 30px 30px 30px 30px;
+}
+
+.measure1{
+	max-width: 25em;
+}
+
+.putton {
+	background-color: #701328;
+	color: white;
+}
+
+.bg {
+	background-color: #701328;
+	color: white;
+}
